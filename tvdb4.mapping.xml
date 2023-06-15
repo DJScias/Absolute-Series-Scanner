@@ -241,31 +241,27 @@
     21|480|500|Epilogue
   </anime>
   <anime tvdbid="81797" name="One Piece">
-    01|001|030|East Blue - Gathering the Crew
-    02|031|044|Arlong Park
-    03|045|063|Entering into the Grand Line 
-    04|064|077|Whiskey Peak and Little Garden
-    05|078|091|Drum Island
-    06|092|135|Alabasta
-    07|136|152|Jaya Arc
-    08|153|195|Skypiea
-    09|196|206|The Naval Fortress G8
-    10|207|228|Davy Back Games - The Foxy Pirate Crew
-    11|229|263|Water Seven
-    12|264|325|Enies Lobby
-    13|326|384|Thriller Bark
-    14|385|407|Sabaody Archipelago
-    15|408|421|Island of Women / Amazon Lily
-    16|422|456|Impel Down
-    17|457|489|Marineford
-    18|490|516|Post-War Arc
-    19|517|574|Fishman Island
-    20|575|628|Punk Hazard
-    21|629|746|Dressrosa
-    22|747|782|Zou Arc
-    23|783|877|Whole Cake Island Arc
-    24|878|891|Reverie Arc
-    25|892|892|Wano Arc (unknown length)
+    01|001|061|East Blue Arc
+    02|062|077|Whiskey Peak and Little Garden Arcs
+    03|078|091|Drum Island Arc
+    04|092|130|Alabasta Arc
+    05|131|143|Post-Alabasta Arc, Goat Island Arc, Ruluka Island Arc
+    06|144|195|Skypiea Arc
+    07|196|228|G-8 and FOxy's Return Arcs, Long RIng Long Land Arc, Ocean's Dreamarc
+    08|229|263|Water Seven Arc
+    09|264|336|Enies Lobby Arc
+    10|337|381|Thriller Bark Arc
+    11|382|407|Sabaody Archipelago
+    12|408|421|Amazon Lily Arc
+    13|422|522|Impel Down Arc and Marineford Arc
+    14|523|580|Fishman Island Arc
+    15|581|642|Punk Hazard Arc
+    16|643|692|Dress Rosa Arc 
+    17|693|748|Dress Rosa Arc (2)
+    18|749|803|Zou Arc
+    19|804|877|Whole Cake Island Arc
+    20|878|891|Reverie Arc
+    21|892|892|Wano Arc
   </anime>
   <anime tvdbid="299508" name="ReLIFE">
     01|001|013|S1
